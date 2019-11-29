@@ -4,7 +4,7 @@ import { InicioComponent } from './inicio';
 import { CursosComponent } from './cursos/';
 import { EventoComponent } from './evento';
 import { ContatoComponent } from './contato';
-import { InstituicaoComponent } from './instituicao/instituicao.component';
+import { InstituicaoComponent } from './instituicao';
 
 
 

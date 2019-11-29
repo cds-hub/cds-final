@@ -7,6 +7,8 @@ import { CursosComponent} from './cursos';
 import { EventoComponent } from './evento';
 
 import { ContatoComponent } from './contato';
+
+import { InstituicaoComponent } from './instituicao';
     
 
 export const CdsRoutes: Routes = [
@@ -29,5 +31,9 @@ export const CdsRoutes: Routes = [
     {
         path: 'cds/contato',
         component: ContatoComponent
+    },
+    {
+        path: 'cds/instituicao',
+        component: InstituicaoComponent
     },
 ];
