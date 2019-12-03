@@ -5,3 +5,4 @@ export * from './cursos';
 export * from './evento';
 export * from './contato';
 export * from './instituicao';
+export * from './login';

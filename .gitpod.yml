@@ -1,0 +1,12 @@
+vscode:
+  extensions:
+    - Mikael.Angular-BeastCode@8.1.2:mhd8UtJbsGDazjdWNkLewQ==
+    - johnpapa.Angular2@8.2.0:71cwhvciDfgwVNiG3yCydw==
+
+ports:
+  - port: 4200
+
+tasks:
+  - before: npm install -g @angular/cli@latest
+    init: npm install
+    command: ng serve
