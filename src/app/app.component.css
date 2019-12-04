@@ -1,4 +1,16 @@
 .masthead {
+  background: 
+  rgb(106, 221, 241);
+}
+
+
+
+
+
+
+
+/*
+.masthead {
     height: 100vh;
     min-height: 500px;
     background-image: url('../assets/cu.jpg');
@@ -8,7 +20,7 @@
   }
 
 
-/* Um simples comentário */
+ Um simples comentário 
 .li.nav-item.active{
 
   background: white;
@@ -25,3 +37,4 @@
 }
 
 
+*/
